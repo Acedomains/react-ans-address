@@ -1,6 +1,6 @@
 {
   "name": "@ace_domains/react-ans-address",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "React ANS address component",
   "main": "dist/index.js",
   "files": [
