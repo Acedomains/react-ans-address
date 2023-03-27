@@ -227,7 +227,7 @@ Address.propTypes = {
 
 Address.defaultProps = {
   presetValue: '',
-  placeholder: 'Enter Fantom name or address',
+  placeholder: 'Enter Endurance name or address',
   showBlockies: true,
   DefaultIcon: null,
   className: '',
