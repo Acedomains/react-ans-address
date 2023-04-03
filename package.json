@@ -1,6 +1,6 @@
 {
   "name": "@ace_domains/react-ans-address",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "React ANS address component",
   "main": "dist/index.js",
   "files": [
@@ -44,7 +44,7 @@
     "@babel/plugin-syntax-jsx": "^7.18.6",
     "@emotion/core": "^10.0.14",
     "@emotion/styled": "^10.0.14",
-    "@ace_domains/ui": "^1.0.3",
+    "@ace_domains/ui": "^1.1.0",
     "ethers": "^4.0.32",
     "lodash": "^4.17.13"
   },
